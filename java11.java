@@ -1,4 +1,4 @@
-public class java1 {
+public class javaashwin {
     public static void main(String[] args) {
         
         int first = 10;
